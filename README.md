@@ -24,3 +24,37 @@ If you believe someone is violating the code of conduct, we ask that you report 
  + Advocating for, or encouraging, any of the above behavior.
  + Repeated harassment of others. In general, if someone asks you to stop, then stop.
 * When we disagree, try to understand why. Disagreements, both social and technical, happen all the time and Jhink is no exception. It is important that we resolve disagreements and differing views constructively. Remember that we’re different. Different people have different perspectives on issues. Being unable to understand why someone holds a viewpoint doesn’t mean that they’re wrong. Don’t forget that it is human to err and blaming each other doesn’t get us anywhere. Instead, focus on helping to resolve issues and learning from mistakes.
+
+
+# Harassment-free 
+
+Jhink community is dedicated to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of participants in any form.
+
+### Harassment includes:
+
++ Offensive comments related to gender, gender identity and expression, sexual orientation, disability, mental illness, neuro(a)typicality, physical appearance, body size, race, or religion
++ Unwelcome comments regarding a person’s lifestyle choices and practices, including those related to food, health, parenting, drugs, and employment.
++ Deliberate misgendering or use of ‘dead’ or rejected names
++ Gratuitous or off-topic sexual images or behaviour  in spaces where they’re not appropriate
++ Physical contact and simulated physical contact (eg, textual descriptions like “*hug*” or “*backrub*”) without consent or after a request to stop.
++ Threats of violence
++ Incitement of violence towards any individual, including encouraging a person to commit suicide or to engage in self-harm
++ Deliberate intimidation
++ Stalking or following
++ Harassing photography or recording, including logging online activity for harassment purposes
++ Sustained disruption of discussion
++ Unwelcome sexual attention
++ Pattern of inappropriate social contact, such as requesting/assuming inappropriate levels of intimacy with others
++ Continued one-on-one communication after requests to cease
++ Deliberate “outing” of any aspect of a person’s identity without their consent except as necessary to protect other GF members or other vulnerable people from intentional abuse
++ Publication of non-harassing private communication
+
+ 
+### Not act on complaints:
+
++ ‘Reverse’ -isms, including ‘reverse racism,’ ‘reverse sexism,’ and ‘cisphobia’ (because these things don’t exist)
++ Reasonable communication of boundaries, such as “leave me alone,” “go away,” or “I’m not discussing this with you.”
++ Refusal to explain or debate social justice concepts
++ Communicating in a ‘tone’ you don’t find congenial
++ Criticizing racist, sexist, cissexist, or otherwise oppressive behavior or assumptions
+
